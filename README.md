@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yash MAlviya
+- 👋 Hi, I’m @Yash Malviya
 - 👀 I’m interested in coding and i like to explore unique codes and projects
 - 🌱 I’m currently learning python and data analytics
 - 💞️ I’m looking to collaborate 
